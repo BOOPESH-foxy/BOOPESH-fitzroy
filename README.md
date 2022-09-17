@@ -2,8 +2,9 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning 
 -       *ROBOT OPERTING SYSTEM(ROS)
--       *PYTHON PROGRAMMING 
--       *DATABASE(postgreSQL)
+-       *PYTHON PROGRAMMING & ORM
+-       *DATABASE(postgreSQL,MySQL)
+-       *DOCKER
 -       *tkinter(gui)
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me boopes.mc@gmail.com
