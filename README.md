@@ -7,7 +7,7 @@
 -       *DOCKER
 -       *tkinter(gui)
 - 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me boopes.mc@gmail.com
+- 📫 How to reach me boopesh.mc@gmail.com
 
 <!---
 BOOPESH-foxy/BOOPESH-foxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
