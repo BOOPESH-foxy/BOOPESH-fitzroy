@@ -7,8 +7,8 @@
 -       DOCKER
 -       tkinter(gui)
 
-<p align="center">
-     <img src="https://user-images.githubusercontent.com/105548657/191098206-1961dcea-05bb-4db2-b6f0-7389f52e3516.gif" width="500" height="300">
+<p align="right">
+     <img src="https://user-images.githubusercontent.com/105548657/191098206-1961dcea-05bb-4db2-b6f0-7389f52e3516.gif" width="300" height="200">
 </p>
 - 📫 reach me - boopesh.mc@gmail.com
 <!---
