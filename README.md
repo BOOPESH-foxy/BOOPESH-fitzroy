@@ -1,7 +1,7 @@
 - Hey, I’m @BOOPESH
 
-<img src="https://user-images.githubusercontent.com/105548657/191098206-1961dcea-05bb-4db2-b6f0-7389f52e3516.gif" width="408" length="600">
--       I am currently learning:
+<img src="https://user-images.githubusercontent.com/105548657/191098206-1961dcea-05bb-4db2-b6f0-7389f52e3516.gif" length="600" width="408" >
+I am currently learning:
 -       ROBOT OPERTING SYSTEM(ROS)
 -       PYTHON PROGRAMMING & ORM(SQLAlchemy)
 -       DATABASE(postgreSQL,MySQL)
