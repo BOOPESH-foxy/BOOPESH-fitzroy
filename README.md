@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @BOOPESH
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning 
--       *ROBOT OPERTING SYSTEM(ROS)
--       *PYTHON PROGRAMMING & ORM
--       *DATABASE(postgreSQL,MySQL)
--       *DOCKER
--       *tkinter(gui)
+- 🌱 I’m currently Working 
+-       ROBOT OPERTING SYSTEM(ROS)
+-       PYTHON PROGRAMMING & ORM(SQLAlchemy)
+-       DATABASE(postgreSQL,MySQL)
+-       DOCKER
+-       tkinter(gui)
 - 📫 reach me - boopesh.mc@gmail.com
 
 <!---
