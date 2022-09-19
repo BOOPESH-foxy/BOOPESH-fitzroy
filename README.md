@@ -1,5 +1,7 @@
 - Hey, I’m Boopesh
-- ![2nmZ](https://user-images.githubusercontent.com/105548657/191098206-1961dcea-05bb-4db2-b6f0-7389f52e3516.gif)
+- ![2nmZ](https://user-images.githubusercontent.com/105548657/191098206-1961dcea-05bb-4db2-b6f0-7389f52e3516.gif) width= "40"
+- <img src="(https://user-images.githubusercontent.com/105548657/191098206-1961dcea-05bb-4db2-b6f0-7389f52e3516.gif)" width="48">
+
 -       ROBOT OPERTING SYSTEM(ROS)
 -       PYTHON PROGRAMMING & ORM(SQLAlchemy)
 -       DATABASE(postgreSQL,MySQL)
