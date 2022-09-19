@@ -3,13 +3,14 @@
 -  I am currently learning:
 -       ROBOT OPERTING SYSTEM(ROS)
 -       PYTHON PROGRAMMING & ORM(SQLAlchemy)
+-       <p align="right">
+           <img src="https://user-images.githubusercontent.com/105548657/191098206-1961dcea-05bb-4db2-             b6f0-         7389f52e3516.gif" width="300" height="200">
+         </p>
 -       DATABASE(postgreSQL,MySQL)
 -       DOCKER
 -       tkinter(gui)
 
-<p align="right">
-     <img src="https://user-images.githubusercontent.com/105548657/191098206-1961dcea-05bb-4db2-b6f0-7389f52e3516.gif" width="300" height="200">
-</p>
+
 - 📫 reach me - boopesh.mc@gmail.com
 <!---
 BOOPESH-foxy/BOOPESH-foxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
