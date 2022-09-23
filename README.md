@@ -6,7 +6,9 @@
 -       DATABASE(postgreSQL,MySQL)
 -       DOCKER
 -       tkinter(gui)
--       <p align="left">
+https://htmlpreview.github.io/?
+https://github.com/BOOPESH-foxy/we-robotics/blob/main/index.html
+
 <img src="https://user-images.githubusercontent.com/105548657/191098206-1961dcea-05bb-4db2-b6f0-7389f52e3516.gif" width="300" height="200">
 </p>
 
