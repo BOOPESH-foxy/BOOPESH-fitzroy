@@ -2,7 +2,7 @@
 
 -  I am currently learning:
 -       ROBOT OPERTING SYSTEM(ROS)
--       PYTHON PROGRAMMING & ORM(SQLAlchemy)
+-       PYTHON & ORM(SQLAlchemy)
 -       DATABASE(postgreSQL,MySQL)
 -       DOCKER
 -       tkinter(gui)
